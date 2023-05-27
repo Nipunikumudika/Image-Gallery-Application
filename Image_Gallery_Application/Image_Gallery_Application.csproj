@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>True</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\editWindowLayout.jfif" />
+    <None Remove="Images\galleryWindowLayout.jpg" />
+    <None Remove="Images\playWindowLayout.jfif" />
+    <None Remove="Images\R %281%29.jfif" />
+    <None Remove="Images\Screenshot 2022-12-22 005029.png" />
+    <None Remove="Images\uploadWindowLayout.jfif" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.58.0.2859" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Resource Include="Images\uploadWindowLayout.jfif" />
+    <Resource Include="Images\editWindowLayout.jfif" />
+    <Resource Include="Images\R (1).jfif" />
+    <Resource Include="Images\galleryWindowLayout.jpg" />
+    <Resource Include="Images\playWindowLayout.jfif" />
+    <Resource Include="Images\Screenshot 2022-12-22 005029.png" />
+  </ItemGroup>
+
+</Project>

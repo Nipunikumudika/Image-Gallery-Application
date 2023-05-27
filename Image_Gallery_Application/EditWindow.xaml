@@ -1,0 +1,35 @@
+﻿<Window x:Class="Image_Gallery_Application.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Image_Gallery_Application"
+        mc:Ignorable="d"
+        Title="EditWindow" Height="750" Width="1500" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image Height="750" Width="1500" Source="Images/editWindowLayout.jfif" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="-128" Canvas.Top="-242" Stretch="UniformToFill" Margin="-2,0,0,0" />
+
+        <Canvas Margin="50,150,271,65" ClipToBounds="True" x:Name="LoadingCanvas">
+            <Image x:Name="img"
+            HorizontalAlignment="Center" VerticalAlignment="Center"
+           MouseLeftButtonDown="ImageMouseLeftButtonDown"
+           MouseLeftButtonUp="ImageMouseLeftButtonUp"
+           MouseMove="ImageMouseMove" Stretch="Uniform"/>
+            <Path x:Name="selectionPath" Stroke="Magenta" StrokeThickness="2"/>
+        </Canvas>
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Image Editing"
+                           Style="{StaticResource titleText}"
+                           Foreground="Wheat"
+                           FontSize="50" Width="750" Margin="0"
+                           TextAlignment="Center"/>
+        </StackPanel>
+        <Button Name="crop" Content="Crop" HorizontalAlignment="Left" Margin="50,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="crop_Click"/>
+        <Button x:Name="bw" Content="B and W" HorizontalAlignment="Left" Margin="452,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="bw_Click"/>
+        <Button x:Name="red" Content="Apply Red Mask" HorizontalAlignment="Left" Margin="651,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="red_Click"/>
+        <Button x:Name="green" Content="Apply Green Mask" HorizontalAlignment="Left" Margin="854,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="green_Click"/>
+        <Button x:Name="blue" Content="Apply Blue Mask" HorizontalAlignment="Left" Margin="1056,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="blue_Click"/>
+        <Button x:Name="return" Content="Go to Main" HorizontalAlignment="Left" Margin="1263,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="return_Click"/>
+        <Button x:Name="rotate" Content="Rotate" HorizontalAlignment="Left" Margin="248,73,0,0" VerticalAlignment="Top" Style="{StaticResource mainButton}" Click="rotate_Click"/>
+    </Grid>
+</Window>

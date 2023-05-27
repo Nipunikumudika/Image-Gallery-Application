@@ -1,0 +1,27 @@
+﻿<Window x:Class="Image_Gallery_Application.PlayWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Image_Gallery_Application"
+        mc:Ignorable="d"
+        Title="PlayWindow" Height="750" Width="1500" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Image HorizontalAlignment="Center" Height="734" VerticalAlignment="Center" Width="1500" Source="Images/playWindowLayout.jfif" Stretch="UniformToFill"/>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2">
+            <TextBlock Text="Slide Show" Name="tbslideshow"
+                           Style="{StaticResource titleText}"
+                           Foreground="Wheat" Padding="10"
+                           FontSize="60" Width="1000"
+                           TextAlignment="center" RenderTransformOrigin="0.501,0.97"/>
+        </StackPanel>
+        <Image x:Name="img" HorizontalAlignment="Center" Height="672" Margin="0,0,0,0" VerticalAlignment="Center" Width="902"/>
+        <Button x:Name="next" Content="Next" HorizontalAlignment="Left" Margin="1219,259,0,0" VerticalAlignment="Top" Click="Next_Click" Style="{StaticResource mainButton}" Background="Wheat" Foreground="Black" FontSize="20" RenderTransformOrigin="0.159,1.554" Height="65" Width="184"/>
+        <Button x:Name="previous" Content="Previous" HorizontalAlignment="Left" Height="65" Margin="45,259,0,0" VerticalAlignment="Top" Width="184" Click="Previous_Click" Style="{StaticResource mainButton}" Background="Wheat" Foreground="Black" FontSize="20"/>
+        <Button x:Name="playbtn" Content="Play" HorizontalAlignment="Left" Height="62" Margin="45,524,0,0" VerticalAlignment="Top" Width="184" Click="Play_Click" Style="{StaticResource mainButton}" Background="Wheat" Foreground="Black" FontSize="20"/>
+        <Button x:Name="timerplay" Content="Timer Play" HorizontalAlignment="Left" Height="60" Margin="45,607,0,0" VerticalAlignment="Top" Width="184" Click="Timer_Click" Style="{StaticResource mainButton}" Background="Wheat" Foreground="Black" FontSize="20"/>
+        <TextBox x:Name="textbox" HorizontalAlignment="Left" Margin="243,612,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113" Text="3" Height="50" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="return" Content="Return Main Menu" HorizontalAlignment="Left" Height="60" Margin="1187,607,0,0" VerticalAlignment="Top" Width="250" Click="return_Click" Style="{StaticResource mainButton}" Background="Wheat" Foreground="Black" FontSize="20"/>
+    </Grid>
+</Window>

@@ -1,0 +1,205 @@
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.AssemblyReference.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.lref
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.exe
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.deps.json
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.runtimeconfig.json
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.g.resources
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfoInputs.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfo.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CoreCompileInputs.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\refint\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.genruntimeconfig.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ref\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CopyComplete
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.exe
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.deps.json
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.runtimeconfig.json
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.pdb
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.AssemblyReference.cache
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.cache
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.lref
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.g.resources
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfoInputs.cache
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfo.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CoreCompileInputs.cache
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CopyComplete
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\refint\Image_Gallery_Application.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.pdb
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.genruntimeconfig.cache
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ref\Image_Gallery_Application.dll
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.baml
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.g.cs
+E:\campus\semester 3\c#\ok\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.exe
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.deps.json
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.runtimeconfig.json
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.cache
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.lref
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.baml
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.g.resources
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfo.cs
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CopyComplete
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\refint\Image_Gallery_Application.dll
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.genruntimeconfig.cache
+C:\Users\User\Downloads\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ref\Image_Gallery_Application.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.exe
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.deps.json
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.runtimeconfig.json
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.pdb
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.AssemblyReference.cache
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.g.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.cache
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.lref
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.baml
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.g.resources
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfoInputs.cache
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfo.cs
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CoreCompileInputs.cache
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CopyComplete
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\refint\Image_Gallery_Application.dll
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.pdb
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.genruntimeconfig.cache
+G:\sem 3 UOR\EE 3302 Data Structures and Algorithms\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ref\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.exe
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.deps.json
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.runtimeconfig.json
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.AssemblyReference.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application_MarkupCompile.lref
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\App.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\EditWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryApplication.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ImageGalleryFirstWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\PlayWindowFirst.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\UploadWindow.baml
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.g.resources
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfoInputs.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.AssemblyInfo.cs
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CoreCompileInputs.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.csproj.CopyComplete
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\refint\Image_Gallery_Application.dll
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.pdb
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\Image_Gallery_Application.genruntimeconfig.cache
+C:\Users\GF63 10SCSR\Desktop\Image_Gallery_Application (2)\Image_Gallery_Application\Image_Gallery_Application\Image_Gallery_Application\obj\Debug\net6.0-windows\ref\Image_Gallery_Application.dll
